@@ -2,6 +2,8 @@
 **从1.0版开始，控制器底部将粘贴该控制器的版本号以及初始固件版本号。**<br>ZriCON BMS/IIDX BIG VER 0.9（控制器底部无粘贴标记）不适用，请移步[ZriCON BMS/IIDX BIG VER 
 0.9相关资源](https://github.com/nocirz/zricon-bms-iidx-big-0.9)<br>
 
++ [ZriCON_BMS_IIDX_BIG_VER_1_0_20200827_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_1_0_20200905_firmware.exe) 1.0_20200905版本固件更新程序。
++ [ZriCON BMS-IIDX BIG VER 1_0 音乐游戏控制器使用说明_20200827.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%201_0%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200905.pdf)  控制器说明书，适用固件为1.0_20200905。
 + [ZriCON_BMS_IIDX_BIG_VER_1_0_20200827_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_1_0_20200827_firmware.exe) 1.0_20200827版本固件更新程序。
 + [ZriCON BMS-IIDX BIG VER 1_0 音乐游戏控制器使用说明_20200827.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%201_0%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200827.pdf)  控制器说明书，适用固件为1.0_20200827。
 + [ZriCON_BMS_IIDX_BIG_VER_1_0_20200707_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_1_0_20200707_firmware.exe) 1.0_20200707版本固件更新程序。
